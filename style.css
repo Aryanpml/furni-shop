@@ -277,3 +277,43 @@ header {
     opacity: 1;
   }
 }
+
+/* TriXiom start */
+
+.services {
+  padding: 100px;
+  /* پدینگ رو بعدا پاک کن برای کار خودم زدمش aryan */
+  .services__image-countainer {
+    width: 630px;
+    height: 630px;
+    position: relative;
+
+    .services__image-countainer__img {
+      position: absolute;
+      border-radius: 10px;
+    }
+
+    .services-img-1 {
+      width: 420px;
+
+      top: 0;
+      left: 0;
+    }
+
+    .services-img-2 {
+      width: 280px;
+
+      bottom: 0;
+      right: 0;
+    }
+
+    .services-img-3 {
+      width: 190px;
+
+      top: 0;
+      right: 0;
+    }
+  }
+}
+
+/* TriXiom end */
