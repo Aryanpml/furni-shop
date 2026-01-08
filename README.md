@@ -10,7 +10,7 @@ You can view a live demo of this project here: [Furni Shop](https://mmhosseinzad
 
 ## Screenshots
 
-![Furni Shop](https://github.com/https://github.com/Aryanpml/furni-shop.git/blob/main/furni-shop.png)
+![Furni Shop](https://github.com/mmhosseinzadeh9190/furni-shop/blob/main/furni-shop.png)
 
 ## Tech Stack
 
@@ -20,4 +20,4 @@ You can view a live demo of this project here: [Furni Shop](https://mmhosseinzad
 
 ## Author
 
-- [@Aryanpml](https://github.com//furni-shop.git)
+- [@Aryanpml](https://github.com/Aryanpml/furni-shop.git)
